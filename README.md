@@ -308,7 +308,7 @@ Building and continuously improving full-stack applications while developing pra
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishika2164/Rishika2164/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rishika2164/Rishika2164/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 </p>
 
 ---
