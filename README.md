@@ -279,12 +279,12 @@ Building and continuously improving full-stack applications while developing pra
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishika2164&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika2164&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rishika2164&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Rishika2164&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika2164&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rishika2164&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
 </p>
 
 ---
@@ -292,7 +292,7 @@ Building and continuously improving full-stack applications while developing pra
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishika2164&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" width="850"/>
+  <img src="https://github-trophies.vercel.app/?username=Rishika2164&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" width="850"/>
 </p>
 
 ---
